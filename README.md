@@ -6,3 +6,4 @@
 4. Data processing in Python;
 5. Database Fundamentals and the SQL Language;
 6. Introducing Data Science: Building Our First Machine Learning Model;
+7. Big Data in action.
