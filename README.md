@@ -7,3 +7,5 @@
 5. Database Fundamentals and the SQL Language;
 6. Introducing Data Science: Building Our First Machine Learning Model;
 7. Big Data in action.
+https://teachablemachine.withgoogle.com/models/8xMjhBZ9a/
+
